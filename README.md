@@ -1,16 +1,15 @@
-## Hi there 👋
+EIPOOL加速官网地址 最新地址：https://board.eipool.com
 
-<!--
-**eipool/eipool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+EIPool加速介绍 EIPool加速，集群负载均衡，不限速，无审计，高速专线，极低延迟。全球独家Hysteria2协议，解锁流媒体及ChatGPT，不限设备数，全平台通用。
 
-Here are some ideas to get you started:
+EIPool加速作为第一家上线Hysteria1协议的机场，目前已经全面上线Hysteria2协议；不同于hy1，hy2全面优化了链接速度(0-RTT)，进一步降低延迟；同时使用全新的带宽控制方式；能发挥您带宽的最大潜能！
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💸 充值返现
+
+充值超过100元，自动赠送10元：
+
+充100得110，充200得220，以此类推（🎁 充值路径：左侧菜单->个人中心->充值 ，打开余额自动续费，支付无手续费）
+
+⏰ 截止至 12月12日 24时 立即下单，锁定年度最低价！c
+
+EIPOOL加速价格 套餐 标准套餐 高级套餐 豪华套餐 月付 ¥39.8 半年付 ¥199.90 年付 ¥359.90
